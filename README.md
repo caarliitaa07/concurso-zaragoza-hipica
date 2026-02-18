@@ -1,4 +1,4 @@
-Descripción del proyecto: Página web informativa sobre el Concurso Hípico Ciudad de Zaragoza 2026. Diseñada con Bootstrap 5 para mostrar información del evento deportivo de forma clara y responsive.
+Descripción del proyecto: Página web informativa sobre el Concurso CSA IV Trofeo El Portal 2026. Diseñada con Bootstrap 5 para mostrar información del evento deportivo de forma clara y responsive.
 
 Secciones usadas: Navbar navegación principal, Hero presentación evento, Sección información → grid 3 columnas, Sección actividades → cards Bootstrap, Footer informativo.
 
